@@ -1,0 +1,7 @@
+[2014/11/06 18:12:38 18630] ---------------------------------------
+[2014/11/06 18:12:38 18630] Starting Application
+[2014/11/06 18:12:39 18630] Taking option from Main Menu : 1
+[2014/11/06 18:12:39 18630] Directing to weather calculation
+[2014/11/06 18:13:02 18630] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/06 18:13:02 18630] Response Code : 200

@@ -1,0 +1,78 @@
+{
+    "query":{
+        "count":3,
+        "created":"2014-11-06T11:52:44Z",
+        "lang":"en-US",
+        "results":{
+            "place":[
+            {
+                "lang":"en-US",
+                "uri":"http://where.yahooapis.com/v1/place/2295386",
+                "woeid":"2295386",
+                "placeTypeName":{"code":"7","content":"Town"},
+                "name":"Kolkata",
+                "country":{"code":"IN","type":"Country","woeid":"23424848","content":"India"},
+                "admin1":{"code":"IN-WB","type":"State","woeid":"2345761","content":"West Bengal"},
+                "admin2":{"code":"","type":"District","woeid":"12586798","content":"Kolkata"},
+                "admin3":null,
+                "locality1":{"type":"Town","woeid":"2295386","content":"Kolkata"},
+                "locality2":null,
+                "postal":null,
+                "centroid":{"latitude":"22.549940","longitude":"88.371582"},
+                "boundingBox":{
+                    "southWest":{"latitude":"22.421021","longitude":"88.188263"},
+                    "northEast":{"latitude":"22.678860","longitude":"88.449928"}
+                },
+                "areaRank":"6",
+                "popRank":"13",
+                "timezone":{"type":"Time Zone","woeid":"28350818","content":"Asia/Kolkata"}
+            },
+            {
+                "lang":"en-US",
+                "uri":"http://where.yahooapis.com/v1/place/90884298",
+                "woeid":"90884298",
+                "placeTypeName":{"code":"10","content":"Local Administrative Area"},
+                "name":"Kolkata",
+                "country":{"code":"IN","type":"Country","woeid":"23424848","content":"India"},
+                "admin1":{"code":"IN-WB","type":"State","woeid":"2345761","content":"West Bengal"},
+                "admin2":{"code":"","type":"District","woeid":"12586798","content":"Kolkata"},
+                "admin3":{"code":"","type":"Local Administrative Area","woeid":"90884298","content":"Kolkata"},
+                "locality1":null,
+                "locality2":null,
+                "postal":null,
+                "centroid":{"latitude":"22.518240","longitude":"88.317810"},
+                "boundingBox":{
+                    "southWest":{"latitude":"22.402861","longitude":"88.207443"},
+                    "northEast":{"latitude":"22.633610","longitude":"88.428169"}
+                },
+                "areaRank":"5",
+                "popRank":"0",
+                "timezone":{"type":"Time Zone","woeid":"28350818","content":"Asia/Kolkata"}
+            },
+            {
+                "lang":"en-US",
+                "uri":"http://where.yahooapis.com/v1/place/90882694",
+                "woeid":"90882694",
+                "placeTypeName":{"code":"10",
+                "content":"Local Administrative Area"},
+                "name":"Kolkata",
+                "country":{"code":"IN","type":"Country","woeid":"23424848","content":"India"},
+                "admin1":{"code":"IN-WB","type":"State","woeid":"2345761","content":"West Bengal"},
+                "admin2":{"code":"","type":"District","woeid":"12586808","content":"North Twenty Four Parganas"},
+                "admin3":{"code":"","type":"Local Administrative Area","woeid":"90882694","content":"Kolkata"},
+                "locality1":null,
+                "locality2":null,
+                "postal":null,
+                "centroid":{"latitude":"22.641960","longitude":"88.418518"},
+                "boundingBox":{
+                    "southWest":{"latitude":"22.546949","longitude":"88.355011"},
+                    "northEast":{"latitude":"22.707960","longitude":"88.480766"}
+                },
+                "areaRank":"5",
+                "popRank":"0",
+                "timezone":{"type":"Time Zone","woeid":"28350818","content":"Asia/Kolkata"}
+            }
+            ]
+        }
+    }
+}

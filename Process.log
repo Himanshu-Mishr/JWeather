@@ -1,0 +1,1135 @@
+[2014/11/06 15:23:09 5736] Printing Information: Testing2
+[2014/11/06 15:30:30 7229] ---------------------------------------
+[2014/11/06 15:30:30 7229] Starting Application
+[2014/11/06 15:31:30 7309] ---------------------------------------
+[2014/11/06 15:31:30 7309] Starting Application
+[2014/11/06 15:46:41 10515] ---------------------------------------
+[2014/11/06 15:46:41 10515] Starting Application
+[2014/11/06 15:46:41 10515] Take option from Main Menu
+[2014/11/06 15:46:52 10515] Killing the process
+[2014/11/06 15:47:17 10584] ---------------------------------------
+[2014/11/06 15:47:17 10584] Starting Application
+[2014/11/06 15:47:17 10584] Take option from Main Menu
+[2014/11/06 15:47:24 10584] Take option from Main Menu
+[2014/11/06 15:47:31 10584] Killing the process
+[2014/11/06 15:48:44 10685] ---------------------------------------
+[2014/11/06 15:48:44 10685] Starting Application
+[2014/11/06 15:48:44 10685] Take option from Main Menu
+[2014/11/06 15:48:48 10685] Take option from Main Menu
+[2014/11/06 15:48:51 10685] Exiting Main Menu
+[2014/11/06 15:48:51 10685] Killing the process
+[2014/11/06 15:49:52 10977] ---------------------------------------
+[2014/11/06 15:49:52 10977] Starting Application
+[2014/11/06 15:49:55 10977] Taking option from Main Menu : 1
+[2014/11/06 15:49:58 10977] Taking option from Main Menu : 0
+[2014/11/06 15:49:58 10977] Exiting Main Menu
+[2014/11/06 15:49:58 10977] Killing the process
+[2014/11/06 17:12:28 15324] ---------------------------------------
+[2014/11/06 17:12:28 15324] Starting Application
+[2014/11/06 17:12:37 15324] Taking option from Main Menu : 1
+[2014/11/06 17:12:37 15324] Directing to weather calculation
+[2014/11/06 17:13:00 15324] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select+*+from+geo.places+where+text%3D%28Kolkata+India%29&format=jsonselect+*+from+geo.places+where+text%3D%28Kolkata+India%29
+[2014/11/06 17:13:00 15324] Response Code : 400
+[2014/11/06 17:17:04 15513] ---------------------------------------
+[2014/11/06 17:17:04 15513] Starting Application
+[2014/11/06 17:17:10 15513] Taking option from Main Menu : 1
+[2014/11/06 17:17:10 15513] Directing to weather calculation
+[2014/11/06 17:17:36 15513] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=jsonselect%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22
+[2014/11/06 17:17:36 15513] Response Code : 200
+[2014/11/06 17:19:40 15621] ---------------------------------------
+[2014/11/06 17:19:40 15621] Starting Application
+[2014/11/06 17:19:52 15621] Taking option from Main Menu : 1
+[2014/11/06 17:19:52 15621] Directing to weather calculation
+[2014/11/06 17:20:24 15621] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=jsonselect%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22
+[2014/11/06 17:20:24 15621] Response Code : 200
+[2014/11/06 17:40:44 16129] ---------------------------------------
+[2014/11/06 17:40:44 16129] Starting Application
+[2014/11/06 17:40:48 16129] Taking option from Main Menu : 1
+[2014/11/06 17:40:48 16129] Directing to weather calculation
+[2014/11/06 17:41:11 16297] ---------------------------------------
+[2014/11/06 17:41:11 16297] Starting Application
+[2014/11/06 17:41:15 16297] Taking option from Main Menu : 1
+[2014/11/06 17:41:15 16297] Directing to weather calculation
+[2014/11/06 17:41:38 16297] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=jsonselect%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/06 17:41:39 16297] Response Code : 200
+[2014/11/06 17:42:41 16372] ---------------------------------------
+[2014/11/06 17:42:41 16372] Starting Application
+[2014/11/06 17:42:47 16372] Taking option from Main Menu : 1
+[2014/11/06 17:42:47 16372] Directing to weather calculation
+[2014/11/06 17:43:09 16372] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/06 17:43:09 16372] Response Code : 200
+[2014/11/06 17:57:54 17014] ---------------------------------------
+[2014/11/06 17:57:54 17014] Starting Application
+[2014/11/06 17:57:59 17014] Taking option from Main Menu : 1
+[2014/11/06 17:57:59 17014] Directing to weather calculation
+[2014/11/06 17:58:12 17014] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22%22&format=json
+[2014/11/06 17:58:12 17014] Response Code : 200
+[2014/11/06 18:00:04 17307] ---------------------------------------
+[2014/11/06 18:00:04 17307] Starting Application
+[2014/11/06 18:00:09 17307] Taking option from Main Menu : 1
+[2014/11/06 18:00:09 17307] Directing to weather calculation
+[2014/11/06 18:00:24 17307] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/06 18:00:24 17307] Response Code : 200
+[2014/11/06 18:03:03 17631] ---------------------------------------
+[2014/11/06 18:03:03 17631] Starting Application
+[2014/11/06 18:03:06 17631] Taking option from Main Menu : 1
+[2014/11/06 18:03:06 17631] Directing to weather calculation
+[2014/11/06 18:04:08 17676] ---------------------------------------
+[2014/11/06 18:04:08 17676] Starting Application
+[2014/11/06 18:04:11 17676] Taking option from Main Menu : 1
+[2014/11/06 18:04:11 17676] Directing to weather calculation
+[2014/11/06 18:04:32 17676] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20india%22&format=json
+[2014/11/06 18:04:32 17676] Response Code : 200
+[2014/11/06 18:05:42 17789] ---------------------------------------
+[2014/11/06 18:05:42 17789] Starting Application
+[2014/11/06 18:05:47 17789] Taking option from Main Menu : 1
+[2014/11/06 18:05:47 17789] Directing to weather calculation
+[2014/11/06 18:06:02 17789] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/06 18:06:02 17789] Response Code : 200
+[2014/11/06 18:08:46 18201] ---------------------------------------
+[2014/11/06 18:08:46 18201] Starting Application
+[2014/11/06 18:08:49 18201] Taking option from Main Menu : 1
+[2014/11/06 18:08:49 18201] Directing to weather calculation
+[2014/11/06 18:09:12 18201] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20india%22&format=json
+[2014/11/06 18:09:12 18201] Response Code : 200
+[2014/11/06 18:11:06 18548] ---------------------------------------
+[2014/11/06 18:11:06 18548] Starting Application
+[2014/11/06 18:11:10 18548] Taking option from Main Menu : 1
+[2014/11/06 18:11:10 18548] Directing to weather calculation
+[2014/11/06 18:11:26 18548] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/06 18:11:26 18548] Response Code : 200
+[2014/11/06 18:19:05 19714] ---------------------------------------
+[2014/11/06 18:19:05 19714] Starting Application
+[2014/11/06 18:19:08 19714] Taking option from Main Menu : 1
+[2014/11/06 18:19:08 19714] Directing to weather calculation
+[2014/11/06 18:19:38 19714] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/06 18:19:38 19714] Response Code : 0
+[2014/11/06 22:15:01 23947] ---------------------------------------
+[2014/11/06 22:15:01 23947] Starting Application
+[2014/11/06 22:15:09 23947] Taking option from Main Menu : 1
+[2014/11/06 22:15:09 23947] Directing to weather calculation
+[2014/11/06 22:15:27 23947] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/06 22:15:27 23947] Response Code : 200
+[2014/11/07 01:08:50 30143] ---------------------------------------
+[2014/11/07 01:08:50 30143] Starting Application
+[2014/11/07 01:08:54 30143] Taking option from Main Menu : 1
+[2014/11/07 01:08:54 30143] Directing to weather calculation
+[2014/11/07 01:09:05 30143] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 01:09:05 30143] Response Code : 200
+[2014/11/07 01:11:41 30250] ---------------------------------------
+[2014/11/07 01:11:41 30250] Starting Application
+[2014/11/07 01:11:46 30250] Taking option from Main Menu : 1
+[2014/11/07 01:11:46 30250] Directing to weather calculation
+[2014/11/07 01:12:02 30250] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 01:12:02 30250] Response Code : 200
+[2014/11/07 01:12:36 30306] ---------------------------------------
+[2014/11/07 01:12:36 30306] Starting Application
+[2014/11/07 01:12:40 30306] Taking option from Main Menu : 1
+[2014/11/07 01:12:40 30306] Directing to weather calculation
+[2014/11/07 01:12:54 30306] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 01:12:54 30306] Response Code : 200
+[2014/11/07 01:15:25 30437] ---------------------------------------
+[2014/11/07 01:15:25 30437] Starting Application
+[2014/11/07 01:15:30 30437] Taking option from Main Menu : 1
+[2014/11/07 01:15:30 30437] Directing to weather calculation
+[2014/11/07 01:15:50 30437] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 01:15:50 30437] Response Code : 200
+[2014/11/07 01:21:06 30621] ---------------------------------------
+[2014/11/07 01:21:06 30621] Starting Application
+[2014/11/07 01:21:11 30621] Taking option from Main Menu : 1
+[2014/11/07 01:21:11 30621] Directing to weather calculation
+[2014/11/07 01:21:26 30621] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22KOLKATA%20INDIA%22&format=json
+[2014/11/07 01:21:26 30621] Response Code : 200
+[2014/11/07 01:24:08 30779] ---------------------------------------
+[2014/11/07 01:24:08 30779] Starting Application
+[2014/11/07 01:24:11 30779] Taking option from Main Menu : 1
+[2014/11/07 01:24:11 30779] Directing to weather calculation
+[2014/11/07 01:24:19 30779] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20india%22&format=json
+[2014/11/07 01:24:19 30779] Response Code : 200
+[2014/11/07 01:25:49 30877] ---------------------------------------
+[2014/11/07 01:25:49 30877] Starting Application
+[2014/11/07 01:25:57 30877] Taking option from Main Menu : 1
+[2014/11/07 01:25:57 30877] Directing to weather calculation
+[2014/11/07 01:26:10 30877] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 01:26:10 30877] Response Code : 200
+[2014/11/07 01:35:58 31101] ---------------------------------------
+[2014/11/07 01:35:58 31101] Starting Application
+[2014/11/07 01:36:02 31101] Taking option from Main Menu : 1
+[2014/11/07 01:36:02 31101] Directing to weather calculation
+[2014/11/07 01:36:10 31101] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 01:36:10 31101] Response Code : 200
+[2014/11/07 01:47:27 31266] ---------------------------------------
+[2014/11/07 01:47:27 31266] Starting Application
+[2014/11/07 01:47:32 31266] Taking option from Main Menu : 1
+[2014/11/07 01:47:32 31266] Directing to weather calculation
+[2014/11/07 01:47:43 31266] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 01:47:43 31266] Response Code : 200
+[2014/11/07 01:50:23 31325] ---------------------------------------
+[2014/11/07 01:50:23 31325] Starting Application
+[2014/11/07 01:50:26 31325] Taking option from Main Menu : 1
+[2014/11/07 01:50:26 31325] Directing to weather calculation
+[2014/11/07 01:50:39 31325] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 01:50:39 31325] Response Code : 200
+[2014/11/07 01:53:56 31458] ---------------------------------------
+[2014/11/07 01:53:56 31458] Starting Application
+[2014/11/07 01:54:00 31458] Taking option from Main Menu : 1
+[2014/11/07 01:54:00 31458] Directing to weather calculation
+[2014/11/07 01:54:14 31458] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 01:54:14 31458] Response Code : 200
+[2014/11/07 01:59:06 31779] ---------------------------------------
+[2014/11/07 01:59:06 31779] Starting Application
+[2014/11/07 01:59:11 31779] Taking option from Main Menu : 1
+[2014/11/07 01:59:11 31779] Directing to weather calculation
+[2014/11/07 01:59:22 31779] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 01:59:22 31779] Response Code : 200
+[2014/11/07 02:03:58 32008] ---------------------------------------
+[2014/11/07 02:03:58 32008] Starting Application
+[2014/11/07 02:04:01 32008] Taking option from Main Menu : 1
+[2014/11/07 02:04:01 32008] Directing to weather calculation
+[2014/11/07 02:04:14 32008] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 02:04:14 32008] Response Code : 200
+[2014/11/07 02:18:39 32238] ---------------------------------------
+[2014/11/07 02:18:39 32238] Starting Application
+[2014/11/07 02:18:42 32238] Taking option from Main Menu : 1
+[2014/11/07 02:18:42 32238] Directing to weather calculation
+[2014/11/07 02:18:48 32238] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 02:18:48 32238] Response Code : 200
+[2014/11/07 02:59:51 32480] ---------------------------------------
+[2014/11/07 02:59:51 32480] Starting Application
+[2014/11/07 02:59:54 32480] Taking option from Main Menu : 1
+[2014/11/07 02:59:54 32480] Directing to weather calculation
+[2014/11/07 03:00:09 32480] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%22&format=json
+[2014/11/07 03:00:09 32480] Response Code : 200
+[2014/11/07 03:02:17 32564] ---------------------------------------
+[2014/11/07 03:02:17 32564] Starting Application
+[2014/11/07 03:02:20 32564] Taking option from Main Menu : 1
+[2014/11/07 03:02:20 32564] Directing to weather calculation
+[2014/11/07 03:02:34 32564] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 03:02:34 32564] Response Code : 200
+[2014/11/07 03:04:22 32635] ---------------------------------------
+[2014/11/07 03:04:22 32635] Starting Application
+[2014/11/07 03:04:30 32635] Taking option from Main Menu : 1
+[2014/11/07 03:04:30 32635] Directing to weather calculation
+[2014/11/07 03:04:45 32635] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 03:04:45 32635] Response Code : 200
+[2014/11/07 09:56:58 17310] ---------------------------------------
+[2014/11/07 09:56:58 17310] Starting Application
+[2014/11/07 09:57:04 17310] Taking option from Main Menu : 1
+[2014/11/07 09:57:04 17310] Directing to weather calculation
+[2014/11/07 09:57:09 17310] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 09:57:09 17310] Response Code : 200
+[2014/11/07 09:58:58 17684] ---------------------------------------
+[2014/11/07 09:58:58 17684] Starting Application
+[2014/11/07 09:59:01 17684] Taking option from Main Menu : 1
+[2014/11/07 09:59:01 17684] Directing to weather calculation
+[2014/11/07 09:59:12 17684] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 09:59:12 17684] Response Code : 200
+[2014/11/07 10:01:46 18052] ---------------------------------------
+[2014/11/07 10:01:46 18052] Starting Application
+[2014/11/07 10:01:51 18052] Taking option from Main Menu : 1
+[2014/11/07 10:01:51 18052] Directing to weather calculation
+[2014/11/07 10:02:02 18052] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 10:02:02 18052] Response Code : 200
+[2014/11/07 10:04:39 18159] ---------------------------------------
+[2014/11/07 10:04:39 18159] Starting Application
+[2014/11/07 10:04:41 18159] Taking option from Main Menu : 1
+[2014/11/07 10:04:41 18159] Directing to weather calculation
+[2014/11/07 10:04:57 18159] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Delhi%20India%22&format=json
+[2014/11/07 10:04:57 18159] Response Code : 200
+[2014/11/07 10:09:27 18794] ---------------------------------------
+[2014/11/07 10:09:27 18794] Starting Application
+[2014/11/07 10:09:30 18794] Taking option from Main Menu : 1
+[2014/11/07 10:09:30 18794] Directing to weather calculation
+[2014/11/07 10:09:48 18794] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20india%22&format=json
+[2014/11/07 10:09:48 18794] Response Code : 200
+[2014/11/07 10:12:39 19126] ---------------------------------------
+[2014/11/07 10:12:39 19126] Starting Application
+[2014/11/07 10:12:41 19126] Taking option from Main Menu : 1
+[2014/11/07 10:12:41 19126] Directing to weather calculation
+[2014/11/07 10:12:53 19126] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 10:12:53 19126] Response Code : 200
+[2014/11/07 10:17:03 19322] ---------------------------------------
+[2014/11/07 10:17:03 19322] Starting Application
+[2014/11/07 10:17:07 19322] Taking option from Main Menu : 1
+[2014/11/07 10:17:08 19322] Directing to weather calculation
+[2014/11/07 10:17:22 19322] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%22&format=json
+[2014/11/07 10:17:22 19322] Response Code : 200
+[2014/11/07 10:19:58 19362] ---------------------------------------
+[2014/11/07 10:19:58 19362] Starting Application
+[2014/11/07 10:20:02 19362] Taking option from Main Menu : 
+[2014/11/07 10:20:05 19362] Taking option from Main Menu : 1
+[2014/11/07 10:20:05 19362] Directing to weather calculation
+[2014/11/07 10:20:25 19362] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 10:20:25 19362] Response Code : 200
+[2014/11/07 10:20:58 19404] ---------------------------------------
+[2014/11/07 10:20:58 19404] Starting Application
+[2014/11/07 10:21:01 19404] Taking option from Main Menu : 1
+[2014/11/07 10:21:01 19404] Directing to weather calculation
+[2014/11/07 10:21:10 19404] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20india%22&format=json
+[2014/11/07 10:21:10 19404] Response Code : 200
+[2014/11/07 10:23:10 19492] ---------------------------------------
+[2014/11/07 10:23:10 19492] Starting Application
+[2014/11/07 10:23:13 19492] Taking option from Main Menu : 1
+[2014/11/07 10:23:13 19492] Directing to weather calculation
+[2014/11/07 10:23:28 19492] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 10:23:28 19492] Response Code : 200
+[2014/11/07 10:27:50 19580] ---------------------------------------
+[2014/11/07 10:27:50 19580] Starting Application
+[2014/11/07 10:27:52 19580] Taking option from Main Menu : 1
+[2014/11/07 10:27:52 19580] Directing to weather calculation
+[2014/11/07 10:28:12 19580] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Mumbai%20India%22&format=json
+[2014/11/07 10:28:12 19580] Response Code : 200
+[2014/11/07 11:07:58 22442] ---------------------------------------
+[2014/11/07 11:07:58 22442] Starting Application
+[2014/11/07 11:08:00 22442] Taking option from Main Menu : 1
+[2014/11/07 11:08:00 22442] Directing to weather calculation
+[2014/11/07 11:08:13 22442] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 11:08:13 22442] Response Code : 200
+[2014/11/07 11:10:29 22880] ---------------------------------------
+[2014/11/07 11:10:29 22880] Starting Application
+[2014/11/07 11:10:32 22880] Taking option from Main Menu : 1
+[2014/11/07 11:10:32 22880] Directing to weather calculation
+[2014/11/07 11:10:43 22880] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%22&format=json
+[2014/11/07 11:10:43 22880] Response Code : 200
+[2014/11/07 11:20:54 24553] ---------------------------------------
+[2014/11/07 11:20:54 24553] Starting Application
+[2014/11/07 11:20:56 24553] Taking option from Main Menu : 1
+[2014/11/07 11:20:56 24553] Directing to weather calculation
+[2014/11/07 11:21:10 24553] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 11:21:10 24553] Response Code : 200
+[2014/11/07 11:22:42 25184] ---------------------------------------
+[2014/11/07 11:22:42 25184] Starting Application
+[2014/11/07 11:22:43 25184] Taking option from Main Menu : 1
+[2014/11/07 11:22:43 25184] Directing to weather calculation
+[2014/11/07 11:22:55 25184] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 11:22:55 25184] Response Code : 200
+[2014/11/07 11:26:13 25928] ---------------------------------------
+[2014/11/07 11:26:13 25928] Starting Application
+[2014/11/07 11:26:15 25928] Taking option from Main Menu : 1
+[2014/11/07 11:26:15 25928] Directing to weather calculation
+[2014/11/07 11:26:28 25928] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 11:26:28 25928] Response Code : 200
+[2014/11/07 11:55:52 27036] ---------------------------------------
+[2014/11/07 11:55:52 27036] Starting Application
+[2014/11/07 11:55:56 27036] Taking option from Main Menu : 1
+[2014/11/07 11:55:56 27036] Directing to weather calculation
+[2014/11/07 11:56:12 27036] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 11:56:12 27036] Response Code : 200
+[2014/11/07 12:19:51 27443] ---------------------------------------
+[2014/11/07 12:19:51 27443] Starting Application
+[2014/11/07 12:19:54 27443] Taking option from Main Menu : 1
+[2014/11/07 12:19:54 27443] Directing to weather calculation
+[2014/11/07 12:20:06 27443] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 12:20:06 27443] Response Code : 200
+[2014/11/07 12:21:22 27521] ---------------------------------------
+[2014/11/07 12:21:22 27521] Starting Application
+[2014/11/07 12:21:24 27521] Taking option from Main Menu : 1
+[2014/11/07 12:21:24 27521] Directing to weather calculation
+[2014/11/07 12:21:34 27521] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 12:21:34 27521] Response Code : 200
+[2014/11/07 12:21:58 27568] ---------------------------------------
+[2014/11/07 12:21:58 27568] Starting Application
+[2014/11/07 12:22:00 27568] Taking option from Main Menu : 1
+[2014/11/07 12:22:00 27568] Directing to weather calculation
+[2014/11/07 12:22:06 27568] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 12:22:06 27568] Response Code : 200
+[2014/11/07 12:22:37 27622] ---------------------------------------
+[2014/11/07 12:22:37 27622] Starting Application
+[2014/11/07 12:22:39 27622] Taking option from Main Menu : 1
+[2014/11/07 12:22:39 27622] Directing to weather calculation
+[2014/11/07 12:22:53 27622] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 12:22:53 27622] Response Code : 200
+[2014/11/07 12:27:27 28387] ---------------------------------------
+[2014/11/07 12:27:27 28387] Starting Application
+[2014/11/07 12:27:29 28387] Taking option from Main Menu : 1
+[2014/11/07 12:27:29 28387] Directing to weather calculation
+[2014/11/07 12:27:45 28387] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 12:27:45 28387] Response Code : 200
+[2014/11/07 12:30:18 29061] ---------------------------------------
+[2014/11/07 12:30:18 29061] Starting Application
+[2014/11/07 12:30:23 29061] Taking option from Main Menu : 1
+[2014/11/07 12:30:23 29061] Directing to weather calculation
+[2014/11/07 12:30:35 29061] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 12:30:35 29061] Response Code : 200
+[2014/11/07 12:31:09 29099] ---------------------------------------
+[2014/11/07 12:31:09 29099] Starting Application
+[2014/11/07 12:31:13 29099] Taking option from Main Menu : 1
+[2014/11/07 12:31:13 29099] Directing to weather calculation
+[2014/11/07 12:31:23 29099] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 12:31:23 29099] Response Code : 200
+[2014/11/07 12:34:23 30324] ---------------------------------------
+[2014/11/07 12:34:23 30324] Starting Application
+[2014/11/07 12:34:25 30324] Taking option from Main Menu : 1
+[2014/11/07 12:34:25 30324] Directing to weather calculation
+[2014/11/07 12:34:32 30324] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22toronto%22&format=json
+[2014/11/07 12:34:32 30324] Response Code : 200
+[2014/11/07 12:36:31 30638] ---------------------------------------
+[2014/11/07 12:36:31 30638] Starting Application
+[2014/11/07 12:36:33 30638] Taking option from Main Menu : 1
+[2014/11/07 12:36:33 30638] Directing to weather calculation
+[2014/11/07 12:36:52 30638] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22toronto%22&format=json
+[2014/11/07 12:36:52 30638] Response Code : 200
+[2014/11/07 12:40:05 31010] ---------------------------------------
+[2014/11/07 12:40:05 31010] Starting Application
+[2014/11/07 12:40:08 31010] Taking option from Main Menu : 1
+[2014/11/07 12:40:08 31010] Directing to weather calculation
+[2014/11/07 12:40:18 31010] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22toronto%22&format=json
+[2014/11/07 12:40:18 31010] Response Code : 200
+[2014/11/07 12:47:36 31977] ---------------------------------------
+[2014/11/07 12:47:36 31977] Starting Application
+[2014/11/07 12:47:38 31977] Taking option from Main Menu : 1
+[2014/11/07 12:47:38 31977] Directing to weather calculation
+[2014/11/07 12:47:46 31977] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 12:47:46 31977] Response Code : 200
+[2014/11/07 12:48:35 32304] ---------------------------------------
+[2014/11/07 12:48:35 32304] Starting Application
+[2014/11/07 12:48:37 32304] Taking option from Main Menu : 1
+[2014/11/07 12:48:37 32304] Directing to weather calculation
+[2014/11/07 12:48:44 32304] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 12:48:44 32304] Response Code : 200
+[2014/11/07 12:49:00 32348] ---------------------------------------
+[2014/11/07 12:49:00 32348] Starting Application
+[2014/11/07 12:49:02 32348] Taking option from Main Menu : 1
+[2014/11/07 12:49:02 32348] Directing to weather calculation
+[2014/11/07 12:49:10 32348] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 12:49:10 32348] Response Code : 200
+[2014/11/07 12:49:38 32396] ---------------------------------------
+[2014/11/07 12:49:38 32396] Starting Application
+[2014/11/07 12:49:40 32396] Taking option from Main Menu : 1
+[2014/11/07 12:49:40 32396] Directing to weather calculation
+[2014/11/07 12:49:48 32396] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 12:49:48 32396] Response Code : 200
+[2014/11/07 12:50:32 32438] ---------------------------------------
+[2014/11/07 12:50:32 32438] Starting Application
+[2014/11/07 12:50:35 32438] Taking option from Main Menu : 1
+[2014/11/07 12:50:35 32438] Directing to weather calculation
+[2014/11/07 12:50:48 32438] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 12:50:48 32438] Response Code : 200
+[2014/11/07 12:53:12 359] ---------------------------------------
+[2014/11/07 12:53:12 359] Starting Application
+[2014/11/07 12:53:14 359] Taking option from Main Menu : 1
+[2014/11/07 12:53:14 359] Directing to weather calculation
+[2014/11/07 12:53:24 359] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 12:53:24 359] Response Code : 200
+[2014/11/07 12:54:27 422] ---------------------------------------
+[2014/11/07 12:54:27 422] Starting Application
+[2014/11/07 12:54:29 422] Taking option from Main Menu : 1
+[2014/11/07 12:54:29 422] Directing to weather calculation
+[2014/11/07 12:54:39 422] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 12:54:39 422] Response Code : 200
+[2014/11/07 12:56:34 802] ---------------------------------------
+[2014/11/07 12:56:34 802] Starting Application
+[2014/11/07 12:56:40 802] Taking option from Main Menu : 1
+[2014/11/07 12:56:40 802] Directing to weather calculation
+[2014/11/07 12:56:49 802] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 12:56:49 802] Response Code : 200
+[2014/11/07 12:58:19 1125] ---------------------------------------
+[2014/11/07 12:58:19 1125] Starting Application
+[2014/11/07 12:58:20 1125] Taking option from Main Menu : 1
+[2014/11/07 12:58:20 1125] Directing to weather calculation
+[2014/11/07 12:58:30 1125] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 12:58:30 1125] Response Code : 200
+[2014/11/07 12:59:44 1298] ---------------------------------------
+[2014/11/07 12:59:44 1298] Starting Application
+[2014/11/07 12:59:46 1298] Taking option from Main Menu : 1
+[2014/11/07 12:59:46 1298] Directing to weather calculation
+[2014/11/07 12:59:53 1298] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22KOLKATA%20iNDIA%22&format=json
+[2014/11/07 12:59:53 1298] Response Code : 200
+[2014/11/07 13:03:25 1983] ---------------------------------------
+[2014/11/07 13:03:25 1983] Starting Application
+[2014/11/07 13:03:28 1983] Taking option from Main Menu : 1
+[2014/11/07 13:03:28 1983] Directing to weather calculation
+[2014/11/07 13:03:39 1983] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22KOLKATA%20INDIA%22&format=json
+[2014/11/07 13:03:39 1983] Response Code : 200
+[2014/11/07 13:04:23 2026] ---------------------------------------
+[2014/11/07 13:04:23 2026] Starting Application
+[2014/11/07 13:04:24 2026] Taking option from Main Menu : 1
+[2014/11/07 13:04:24 2026] Directing to weather calculation
+[2014/11/07 13:04:34 2026] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 13:04:34 2026] Response Code : 200
+[2014/11/07 13:06:00 2403] ---------------------------------------
+[2014/11/07 13:06:00 2403] Starting Application
+[2014/11/07 13:06:03 2403] Taking option from Main Menu : 1
+[2014/11/07 13:06:03 2403] Directing to weather calculation
+[2014/11/07 13:06:22 2403] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20india%22&format=json
+[2014/11/07 13:06:22 2403] Response Code : 200
+[2014/11/07 13:06:50 2445] ---------------------------------------
+[2014/11/07 13:06:50 2445] Starting Application
+[2014/11/07 13:06:52 2445] Taking option from Main Menu : 1
+[2014/11/07 13:06:52 2445] Directing to weather calculation
+[2014/11/07 13:07:08 2445] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20india%22&format=json
+[2014/11/07 13:07:08 2445] Response Code : 200
+[2014/11/07 13:07:47 2496] ---------------------------------------
+[2014/11/07 13:07:47 2496] Starting Application
+[2014/11/07 13:07:49 2496] Taking option from Main Menu : 1
+[2014/11/07 13:07:49 2496] Directing to weather calculation
+[2014/11/07 13:07:59 2496] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 13:07:59 2496] Response Code : 200
+[2014/11/07 13:10:47 2924] ---------------------------------------
+[2014/11/07 13:10:47 2924] Starting Application
+[2014/11/07 13:10:50 2924] Taking option from Main Menu : 1
+[2014/11/07 13:10:50 2924] Directing to weather calculation
+[2014/11/07 13:11:01 2924] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 13:11:01 2924] Response Code : 200
+[2014/11/07 13:14:29 4285] ---------------------------------------
+[2014/11/07 13:14:29 4285] Starting Application
+[2014/11/07 13:14:31 4285] Taking option from Main Menu : 1
+[2014/11/07 13:14:31 4285] Directing to weather calculation
+[2014/11/07 13:14:43 4285] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 13:14:43 4285] Response Code : 200
+[2014/11/07 13:16:27 4348] ---------------------------------------
+[2014/11/07 13:16:27 4348] Starting Application
+[2014/11/07 13:16:29 4348] Taking option from Main Menu : 1
+[2014/11/07 13:16:29 4348] Directing to weather calculation
+[2014/11/07 13:16:44 4348] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 13:16:44 4348] Response Code : 200
+[2014/11/07 13:17:51 4634] ---------------------------------------
+[2014/11/07 13:17:51 4634] Starting Application
+[2014/11/07 13:17:53 4634] Taking option from Main Menu : 1
+[2014/11/07 13:17:53 4634] Directing to weather calculation
+[2014/11/07 13:17:58 4634] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20india%22&format=json
+[2014/11/07 13:17:58 4634] Response Code : 200
+[2014/11/07 13:20:25 4950] ---------------------------------------
+[2014/11/07 13:20:25 4950] Starting Application
+[2014/11/07 13:20:26 4950] Taking option from Main Menu : 1
+[2014/11/07 13:20:26 4950] Directing to weather calculation
+[2014/11/07 13:20:42 4950] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20india%22&format=json
+[2014/11/07 13:20:42 4950] Response Code : 200
+[2014/11/07 13:20:55 4950] Taking option from Main Menu : 0
+[2014/11/07 13:20:55 4950] Exiting Main Menu
+[2014/11/07 13:20:55 4950] Killing the process
+[2014/11/07 13:34:07 6453] ---------------------------------------
+[2014/11/07 13:34:07 6453] Starting Application
+[2014/11/07 13:34:09 6453] Taking option from Main Menu : 1
+[2014/11/07 13:34:09 6453] Directing to weather calculation
+[2014/11/07 13:34:20 6453] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 13:34:20 6453] Response Code : 200
+[2014/11/07 13:35:06 6453] Taking option from Main Menu : 0
+[2014/11/07 13:35:06 6453] Exiting Main Menu
+[2014/11/07 13:35:06 6453] Killing the process
+[2014/11/07 13:40:29 6885] ---------------------------------------
+[2014/11/07 13:40:29 6885] Starting Application
+[2014/11/07 13:40:31 6885] Taking option from Main Menu : 1
+[2014/11/07 13:40:31 6885] Directing to weather calculation
+[2014/11/07 13:40:46 6885] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 13:40:46 6885] Response Code : 200
+[2014/11/07 13:41:06 6885] Taking option from Main Menu : 0
+[2014/11/07 13:41:06 6885] Exiting Main Menu
+[2014/11/07 13:41:06 6885] Killing the process
+[2014/11/07 14:01:22 8690] ---------------------------------------
+[2014/11/07 14:01:22 8690] Starting Application
+[2014/11/07 14:01:24 8690] Taking option from Main Menu : 1
+[2014/11/07 14:01:24 8690] Directing to weather calculation
+[2014/11/07 14:01:39 8690] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 14:01:39 8690] Response Code : 200
+[2014/11/07 14:01:51 8690] 
+Sending 'GET' request to URL : https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D90884298%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 14:01:51 8690] Response Code : 200
+[2014/11/07 14:02:04 8690] Taking option from Main Menu : 0
+[2014/11/07 14:02:04 8690] Exiting Main Menu
+[2014/11/07 14:02:04 8690] Killing the process
+[2014/11/07 14:39:22 12394] ---------------------------------------
+[2014/11/07 14:39:22 12394] Starting Application
+[2014/11/07 14:39:27 12394] Taking option from Main Menu : 1
+[2014/11/07 14:39:27 12394] Directing to weather calculation
+[2014/11/07 14:39:46 12394] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 14:39:46 12394] Response Code : 200
+[2014/11/07 14:40:32 12394] 
+Sending 'GET' request to URL : https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D90882694%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 14:40:32 12394] Response Code : 200
+[2014/11/07 14:47:05 13097] ---------------------------------------
+[2014/11/07 14:47:05 13097] Starting Application
+[2014/11/07 14:47:11 13097] Taking option from Main Menu : 1
+[2014/11/07 14:47:11 13097] Directing to weather calculation
+[2014/11/07 14:49:29 13939] ---------------------------------------
+[2014/11/07 14:49:29 13939] Starting Application
+[2014/11/07 14:49:33 13939] Taking option from Main Menu : 0
+[2014/11/07 14:49:33 13939] Exiting Main Menu
+[2014/11/07 14:49:33 13939] Killing the process
+[2014/11/07 14:49:42 13981] ---------------------------------------
+[2014/11/07 14:49:42 13981] Starting Application
+[2014/11/07 14:49:45 13981] Taking option from Main Menu : 0
+[2014/11/07 14:49:45 13981] Exiting Main Menu
+[2014/11/07 14:49:45 13981] Killing the process
+[2014/11/07 14:50:01 14015] ---------------------------------------
+[2014/11/07 14:50:01 14015] Starting Application
+[2014/11/07 14:50:04 14015] Taking option from Main Menu : 0
+[2014/11/07 14:50:04 14015] Exiting Main Menu
+[2014/11/07 14:50:04 14015] Killing the process
+[2014/11/07 14:51:23 14204] ---------------------------------------
+[2014/11/07 14:51:23 14204] Starting Application
+[2014/11/07 14:51:26 14204] Taking option from Main Menu : 
+[2014/11/07 14:51:28 14204] Taking option from Main Menu : 1
+[2014/11/07 14:51:28 14204] Directing to weather calculation
+[2014/11/07 14:53:40 14604] ---------------------------------------
+[2014/11/07 14:53:40 14604] Starting Application
+[2014/11/07 14:53:42 14604] Taking option from Main Menu : 1
+[2014/11/07 14:53:42 14604] Directing to weather calculation
+[2014/11/07 14:54:32 14675] ---------------------------------------
+[2014/11/07 14:54:32 14675] Starting Application
+[2014/11/07 14:54:34 14675] Taking option from Main Menu : 1
+[2014/11/07 14:54:34 14675] Directing to weather calculation
+[2014/11/07 15:04:42 16296] ---------------------------------------
+[2014/11/07 15:04:42 16296] Starting Application
+[2014/11/07 15:04:47 16296] Taking option from Main Menu : 1
+[2014/11/07 15:04:47 16296] Directing to weather calculation
+[2014/11/07 15:05:04 16296] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 15:05:04 16296] Response Code : 200
+[2014/11/07 15:05:14 16296] 
+Sending 'GET' request to URL : https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D90882694%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 15:05:14 16296] Response Code : 200
+[2014/11/07 15:05:22 16296] Taking option from Main Menu : 0
+[2014/11/07 15:05:22 16296] Exiting Main Menu
+[2014/11/07 15:05:22 16296] Killing the process
+[2014/11/07 16:57:03 18558] ---------------------------------------
+[2014/11/07 16:57:03 18558] Starting Application
+[2014/11/07 16:57:08 18558] Taking option from Main Menu : 1
+[2014/11/07 16:57:08 18558] Directing to weather calculation
+[2014/11/07 16:57:26 18558] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 16:57:26 18558] Response Code : 200
+[2014/11/07 16:57:44 18558] 
+Sending 'GET' request to URL : https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D90882694%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 16:57:44 18558] Response Code : 0
+[2014/11/07 16:58:30 18872] ---------------------------------------
+[2014/11/07 16:58:30 18872] Starting Application
+[2014/11/07 16:58:33 18872] Taking option from Main Menu : 1
+[2014/11/07 16:58:33 18872] Directing to weather calculation
+[2014/11/07 16:59:58 19194] ---------------------------------------
+[2014/11/07 16:59:58 19194] Starting Application
+[2014/11/07 16:59:59 19194] Taking option from Main Menu : 1
+[2014/11/07 16:59:59 19194] Directing to weather calculation
+[2014/11/07 17:06:55 21337] ---------------------------------------
+[2014/11/07 17:06:55 21337] Starting Application
+[2014/11/07 17:06:57 21337] Taking option from Main Menu : 1
+[2014/11/07 17:06:57 21337] Directing to weather calculation
+[2014/11/07 17:12:55 5317] ---------------------------------------
+[2014/11/07 17:12:55 5317] Starting Application
+[2014/11/07 17:12:58 5317] Taking option from Main Menu : 1
+[2014/11/07 17:12:58 5317] Directing to weather calculation
+[2014/11/07 17:14:58 6414] ---------------------------------------
+[2014/11/07 17:14:58 6414] Starting Application
+[2014/11/07 17:15:01 6414] Taking option from Main Menu : 0
+[2014/11/07 17:15:01 6414] Exiting Main Menu
+[2014/11/07 17:15:01 6414] Killing the process
+[2014/11/07 17:15:05 6613] ---------------------------------------
+[2014/11/07 17:15:05 6613] Starting Application
+[2014/11/07 17:15:08 6613] Taking option from Main Menu : 1
+[2014/11/07 17:15:08 6613] Directing to weather calculation
+[2014/11/07 17:15:35 6613] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22mumbai%20india%22&format=json
+[2014/11/07 17:15:35 6613] Response Code : 200
+[2014/11/07 17:19:11 8475] ---------------------------------------
+[2014/11/07 17:19:11 8475] Starting Application
+[2014/11/07 17:19:14 8475] Taking option from Main Menu : 1
+[2014/11/07 17:19:14 8475] Directing to weather calculation
+[2014/11/07 17:19:28 8475] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22toronto%22&format=json
+[2014/11/07 17:19:28 8475] Response Code : 200
+[2014/11/07 17:19:54 8475] 
+Sending 'GET' request to URL : https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D12696884%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 17:19:54 8475] Response Code : 200
+[2014/11/07 17:19:59 8475] Taking option from Main Menu : 0
+[2014/11/07 17:19:59 8475] Exiting Main Menu
+[2014/11/07 17:19:59 8475] Killing the process
+[2014/11/07 17:20:31 8966] ---------------------------------------
+[2014/11/07 17:20:31 8966] Starting Application
+[2014/11/07 17:20:33 8966] Taking option from Main Menu : 1
+[2014/11/07 17:20:33 8966] Directing to weather calculation
+[2014/11/07 17:20:47 8966] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22toronto%22&format=json
+[2014/11/07 17:20:47 8966] Response Code : 200
+[2014/11/07 17:20:59 8966] 
+Sending 'GET' request to URL : https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D12696884%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 17:20:59 8966] Response Code : 0
+[2014/11/07 17:21:30 9331] ---------------------------------------
+[2014/11/07 17:21:30 9331] Starting Application
+[2014/11/07 17:21:32 9331] Taking option from Main Menu : 1
+[2014/11/07 17:21:32 9331] Directing to weather calculation
+[2014/11/07 17:23:10 9879] ---------------------------------------
+[2014/11/07 17:23:10 9879] Starting Application
+[2014/11/07 17:23:13 9879] Taking option from Main Menu : 1
+[2014/11/07 17:23:13 9879] Directing to weather calculation
+[2014/11/07 17:24:25 10279] ---------------------------------------
+[2014/11/07 17:24:25 10279] Starting Application
+[2014/11/07 17:24:26 10279] Taking option from Main Menu : 1
+[2014/11/07 17:24:26 10279] Directing to weather calculation
+[2014/11/07 17:24:32 10279] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22toronto%22&format=json
+[2014/11/07 17:24:32 10279] Response Code : 0
+[2014/11/07 17:26:13 10980] ---------------------------------------
+[2014/11/07 17:26:13 10980] Starting Application
+[2014/11/07 17:26:13 10979] ---------------------------------------
+[2014/11/07 17:26:13 10979] Starting Application
+[2014/11/07 17:26:16 10979] Taking option from Main Menu : 1
+[2014/11/07 17:26:16 10979] Directing to weather calculation
+[2014/11/07 17:26:26 10979] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22toronto%22&format=json
+[2014/11/07 17:26:26 10979] Response Code : 200
+[2014/11/07 17:26:34 10979] 
+Sending 'GET' request to URL : https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D12696884%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 17:26:34 10979] Response Code : 0
+[2014/11/07 17:38:07 13068] ---------------------------------------
+[2014/11/07 17:38:07 13068] Starting Application
+[2014/11/07 17:38:14 13068] Taking option from Main Menu : 1
+[2014/11/07 17:38:14 13068] Directing to weather calculation
+[2014/11/07 17:38:25 13068] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 17:38:25 13068] Response Code : 200
+[2014/11/07 17:38:33 13068] 
+Sending 'GET' request to URL : https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D23424848%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 17:38:33 13068] Response Code : 200
+[2014/11/07 17:50:44 13068] Taking option from Main Menu : 1
+[2014/11/07 17:50:44 13068] Directing to weather calculation
+[2014/11/07 17:51:05 13068] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22New%20York%22&format=json
+[2014/11/07 17:51:05 13068] Response Code : 200
+[2014/11/07 17:51:15 13068] 
+Sending 'GET' request to URL : https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D12774675%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 17:51:15 13068] Response Code : 0
+[2014/11/07 18:01:42 15392] ---------------------------------------
+[2014/11/07 18:01:42 15392] Starting Application
+[2014/11/07 18:01:45 15392] Taking option from Main Menu : 1
+[2014/11/07 18:01:45 15392] Directing to weather calculation
+[2014/11/07 18:01:56 15392] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 18:01:56 15392] Response Code : 200
+[2014/11/07 18:02:09 15392] 
+Sending 'GET' request to URL : https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D12586808%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 18:02:09 15392] Response Code : 0
+[2014/11/07 18:02:17 15427] ---------------------------------------
+[2014/11/07 18:02:17 15427] Starting Application
+[2014/11/07 18:02:19 15427] Taking option from Main Menu : 1
+[2014/11/07 18:02:19 15427] Directing to weather calculation
+[2014/11/07 18:02:29 15427] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22toronto%22&format=json
+[2014/11/07 18:02:29 15427] Response Code : 200
+[2014/11/07 18:02:41 15427] 
+Sending 'GET' request to URL : https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D55864303%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 18:02:41 15427] Response Code : 0
+[2014/11/07 18:02:57 15642] ---------------------------------------
+[2014/11/07 18:02:57 15642] Starting Application
+[2014/11/07 18:02:59 15642] Taking option from Main Menu : 1
+[2014/11/07 18:02:59 15642] Directing to weather calculation
+[2014/11/07 18:03:08 15642] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 18:03:08 15642] Response Code : 200
+[2014/11/07 18:03:17 15642] 
+Sending 'GET' request to URL : https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D90882694%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 18:03:17 15642] Response Code : 0
+[2014/11/07 18:08:36 16526] ---------------------------------------
+[2014/11/07 18:08:36 16526] Starting Application
+[2014/11/07 18:08:38 16526] Taking option from Main Menu : 1
+[2014/11/07 18:08:38 16526] Directing to weather calculation
+[2014/11/07 18:09:01 16526] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22New%20Delhi%22&format=json
+[2014/11/07 18:09:01 16526] Response Code : 200
+[2014/11/07 18:09:19 16526] 
+Sending 'GET' request to URL : https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D28743736%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 18:09:19 16526] Response Code : 200
+[2014/11/07 18:17:31 16927] ---------------------------------------
+[2014/11/07 18:17:31 16927] Starting Application
+[2014/11/07 18:17:33 16927] Taking option from Main Menu : 1
+[2014/11/07 18:17:33 16927] Directing to weather calculation
+[2014/11/07 18:17:50 16927] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 18:17:50 16927] Response Code : 200
+[2014/11/07 18:17:57 16927] 
+Sending 'GET' request to URL : https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D90882694%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 18:17:57 16927] Response Code : 0
+[2014/11/07 18:18:20 16962] ---------------------------------------
+[2014/11/07 18:18:20 16962] Starting Application
+[2014/11/07 18:18:23 16962] Taking option from Main Menu : 1
+[2014/11/07 18:18:23 16962] Directing to weather calculation
+[2014/11/07 18:19:13 16962] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22New%20Delhi%22&format=json
+[2014/11/07 18:19:13 16962] Response Code : 200
+[2014/11/07 18:19:29 16962] 
+Sending 'GET' request to URL : https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D28743736%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 18:19:29 16962] Response Code : 0
+[2014/11/07 18:20:08 17263] ---------------------------------------
+[2014/11/07 18:20:08 17263] Starting Application
+[2014/11/07 18:20:12 17263] Taking option from Main Menu : 1
+[2014/11/07 18:20:12 17263] Directing to weather calculation
+[2014/11/07 18:20:40 17263] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22New%20Delhi%22&format=json
+[2014/11/07 18:20:40 17263] Response Code : 200
+[2014/11/07 18:20:58 17263] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D28743736%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 18:20:58 17263] Response Code : 200
+[2014/11/07 18:23:37 17419] ---------------------------------------
+[2014/11/07 18:23:37 17419] Starting Application
+[2014/11/07 18:23:39 17419] Taking option from Main Menu : 1
+[2014/11/07 18:23:39 17419] Directing to weather calculation
+[2014/11/07 18:23:53 17419] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22New%20Delhi%22&format=json
+[2014/11/07 18:23:53 17419] Response Code : 200
+[2014/11/07 18:23:59 17419] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D28743736%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 18:23:59 17419] Response Code : 200
+[2014/11/07 18:27:51 17651] ---------------------------------------
+[2014/11/07 18:27:51 17651] Starting Application
+[2014/11/07 18:27:53 17651] Taking option from Main Menu : 1
+[2014/11/07 18:27:53 17651] Directing to weather calculation
+[2014/11/07 18:28:09 17651] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Mumbai%20India%22&format=json
+[2014/11/07 18:28:09 17651] Response Code : 200
+[2014/11/07 18:28:34 17683] ---------------------------------------
+[2014/11/07 18:28:34 17683] Starting Application
+[2014/11/07 18:28:37 17683] Taking option from Main Menu : 1
+[2014/11/07 18:28:37 17683] Directing to weather calculation
+[2014/11/07 18:29:01 17683] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 18:29:01 17683] Response Code : 200
+[2014/11/07 18:29:11 17683] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D90882694%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 18:29:11 17683] Response Code : 200
+[2014/11/07 18:29:33 17729] ---------------------------------------
+[2014/11/07 18:29:33 17729] Starting Application
+[2014/11/07 18:29:36 17729] Taking option from Main Menu : 1
+[2014/11/07 18:29:36 17729] Directing to weather calculation
+[2014/11/07 18:29:44 17729] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20india%22&format=json
+[2014/11/07 18:29:44 17729] Response Code : 200
+[2014/11/07 18:29:54 17729] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D90882694%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 18:29:54 17729] Response Code : 200
+[2014/11/07 18:31:13 17821] ---------------------------------------
+[2014/11/07 18:31:13 17821] Starting Application
+[2014/11/07 18:31:18 17821] Taking option from Main Menu : 1
+[2014/11/07 18:31:18 17821] Directing to weather calculation
+[2014/11/07 18:31:42 17821] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20india%22&format=json
+[2014/11/07 18:31:42 17821] Response Code : 200
+[2014/11/07 18:31:48 17821] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D90882694%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 18:31:48 17821] Response Code : 200
+[2014/11/07 18:36:34 17979] ---------------------------------------
+[2014/11/07 18:36:34 17979] Starting Application
+[2014/11/07 18:36:38 17979] Taking option from Main Menu : 1
+[2014/11/07 18:36:38 17979] Directing to weather calculation
+[2014/11/07 18:36:48 17979] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 18:36:48 17979] Response Code : 200
+[2014/11/07 18:36:53 17979] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D90882694%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 18:36:53 17979] Response Code : 200
+[2014/11/07 18:40:57 18216] ---------------------------------------
+[2014/11/07 18:40:57 18216] Starting Application
+[2014/11/07 18:41:03 18216] Taking option from Main Menu : 1
+[2014/11/07 18:41:03 18216] Directing to weather calculation
+[2014/11/07 18:41:16 18216] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 18:41:16 18216] Response Code : 200
+[2014/11/07 18:41:26 18216] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D90882694%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 18:41:26 18216] Response Code : 200
+[2014/11/07 19:15:01 20140] ---------------------------------------
+[2014/11/07 19:15:01 20140] Starting Application
+[2014/11/07 19:15:03 20140] Taking option from Main Menu : 1
+[2014/11/07 19:15:03 20140] Directing to weather calculation
+[2014/11/07 19:15:21 20140] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Bhopal%22&format=json
+[2014/11/07 19:15:21 20140] Response Code : 200
+[2014/11/07 19:15:52 20140] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D90882300%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 19:15:52 20140] Response Code : 200
+[2014/11/07 19:37:27 20365] ---------------------------------------
+[2014/11/07 19:37:27 20365] Starting Application
+[2014/11/07 19:37:31 20365] Taking option from Main Menu : 1
+[2014/11/07 19:37:31 20365] Directing to weather calculation
+[2014/11/07 19:37:46 20365] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20india%22&format=json
+[2014/11/07 19:37:46 20365] Response Code : 200
+[2014/11/07 19:37:52 20365] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D90884298%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 19:37:52 20365] Response Code : 200
+[2014/11/07 19:40:23 20523] ---------------------------------------
+[2014/11/07 19:40:23 20523] Starting Application
+[2014/11/07 19:40:26 20523] Taking option from Main Menu : 1
+[2014/11/07 19:40:26 20523] Directing to weather calculation
+[2014/11/07 19:40:32 20523] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 19:40:32 20523] Response Code : 200
+[2014/11/07 19:40:43 20523] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D2345761%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 19:40:43 20523] Response Code : 200
+[2014/11/07 19:42:04 20617] ---------------------------------------
+[2014/11/07 19:42:04 20617] Starting Application
+[2014/11/07 19:42:07 20617] Taking option from Main Menu : 1
+[2014/11/07 19:42:07 20617] Directing to weather calculation
+[2014/11/07 19:42:15 20617] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%22&format=json
+[2014/11/07 19:42:15 20617] Response Code : 200
+[2014/11/07 19:42:23 20617] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D90884298%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 19:42:23 20617] Response Code : 200
+[2014/11/07 19:42:34 20617] Taking option from Main Menu : 0
+[2014/11/07 19:42:34 20617] Exiting Main Menu
+[2014/11/07 19:42:34 20617] Killing the process
+[2014/11/07 20:40:44 22151] ---------------------------------------
+[2014/11/07 20:40:44 22151] Starting Application
+[2014/11/07 20:40:47 22151] Taking option from Main Menu : 1
+[2014/11/07 20:40:47 22151] Directing to weather calculation
+[2014/11/07 20:40:58 22151] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 20:40:58 22151] Response Code : 200
+[2014/11/07 20:41:02 22151] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D90882694%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 20:41:02 22151] Response Code : 200
+[2014/11/07 21:15:07 23753] ---------------------------------------
+[2014/11/07 21:15:07 23753] Starting Application
+[2014/11/07 21:15:09 23753] Taking option from Main Menu : 1
+[2014/11/07 21:15:09 23753] Directing to weather calculation
+[2014/11/07 21:15:27 23753] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 21:15:27 23753] Response Code : 200
+[2014/11/07 21:15:41 23753] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D90882694%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 21:15:41 23753] Response Code : 200
+[2014/11/07 22:00:56 26498] ---------------------------------------
+[2014/11/07 22:00:56 26498] Starting Application
+[2014/11/07 22:01:02 26498] Taking option from Main Menu : 1
+[2014/11/07 22:01:02 26498] Directing to weather calculation
+[2014/11/07 22:01:18 26498] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20india%22&format=json
+[2014/11/07 22:01:18 26498] Response Code : 200
+[2014/11/07 22:01:39 26498] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D12586808%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 22:01:39 26498] Response Code : 200
+[2014/11/07 22:02:50 26559] ---------------------------------------
+[2014/11/07 22:02:50 26559] Starting Application
+[2014/11/07 22:02:55 26559] Taking option from Main Menu : 1
+[2014/11/07 22:02:55 26559] Directing to weather calculation
+[2014/11/07 22:03:13 26559] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 22:03:13 26559] Response Code : 200
+[2014/11/07 22:03:17 26559] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D90882694%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 22:03:17 26559] Response Code : 200
+[2014/11/07 22:04:50 26676] ---------------------------------------
+[2014/11/07 22:04:50 26676] Starting Application
+[2014/11/07 22:04:55 26676] Taking option from Main Menu : 0
+[2014/11/07 22:04:55 26676] Exiting Main Menu
+[2014/11/07 22:04:55 26676] Killing the process
+[2014/11/07 22:05:07 26711] ---------------------------------------
+[2014/11/07 22:05:07 26711] Starting Application
+[2014/11/07 22:05:09 26711] Taking option from Main Menu : 1
+[2014/11/07 22:05:09 26711] Directing to weather calculation
+[2014/11/07 22:05:18 26711] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 22:05:18 26711] Response Code : 200
+[2014/11/07 22:05:27 26711] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D12586808%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 22:05:27 26711] Response Code : 200
+[2014/11/07 22:08:19 26816] ---------------------------------------
+[2014/11/07 22:08:19 26816] Starting Application
+[2014/11/07 22:08:22 26816] Taking option from Main Menu : 1
+[2014/11/07 22:08:22 26816] Directing to weather calculation
+[2014/11/07 22:08:39 26816] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 22:08:39 26816] Response Code : 200
+[2014/11/07 22:08:47 26816] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D12586808%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 22:08:47 26816] Response Code : 200
+[2014/11/07 22:08:53 26816] Taking option from Main Menu : 0
+[2014/11/07 22:08:53 26816] Exiting Main Menu
+[2014/11/07 22:08:53 26816] Killing the process
+[2014/11/07 22:13:57 27076] ---------------------------------------
+[2014/11/07 22:13:57 27076] Starting Application
+[2014/11/07 22:14:00 27076] Taking option from Main Menu : 1
+[2014/11/07 22:14:00 27076] Directing to weather calculation
+[2014/11/07 22:14:26 27076] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22Kolkata%20India%22&format=json
+[2014/11/07 22:14:26 27076] Response Code : 200
+[2014/11/07 22:14:33 27076] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D90882694%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 22:14:33 27076] Response Code : 200
+[2014/11/07 22:17:44 27076] Taking option from Main Menu : 0
+[2014/11/07 22:17:44 27076] Exiting Main Menu
+[2014/11/07 22:17:44 27076] Killing the process
+[2014/11/07 22:18:30 27671] ---------------------------------------
+[2014/11/07 22:18:30 27671] Starting Application
+[2014/11/07 22:18:33 27671] Taking option from Main Menu : 1
+[2014/11/07 22:18:33 27671] Directing to weather calculation
+[2014/11/07 22:18:50 27671] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/07 22:18:50 27671] Response Code : 200
+[2014/11/07 22:18:55 27671] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D90882694%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 22:18:55 27671] Response Code : 200
+[2014/11/07 22:22:37 29098] ---------------------------------------
+[2014/11/07 22:22:37 29098] Starting Application
+[2014/11/07 22:22:39 29098] Taking option from Main Menu : 1
+[2014/11/07 22:22:39 29098] Directing to weather calculation
+[2014/11/07 22:22:51 29098] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22toronto%22&format=json
+[2014/11/07 22:22:51 29098] Response Code : 200
+[2014/11/07 22:23:32 29098] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D29375205%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 22:23:33 29098] Response Code : 200
+[2014/11/07 22:25:12 29174] ---------------------------------------
+[2014/11/07 22:25:12 29174] Starting Application
+[2014/11/07 22:25:18 29174] Taking option from Main Menu : 1
+[2014/11/07 22:25:18 29174] Directing to weather calculation
+[2014/11/07 22:25:31 29174] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22toronto%22&format=json
+[2014/11/07 22:25:31 29174] Response Code : 200
+[2014/11/07 22:25:37 29174] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D29375205%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 22:25:37 29174] Response Code : 200
+[2014/11/07 22:26:16 29174] Taking option from Main Menu : 0
+[2014/11/07 22:26:16 29174] Exiting Main Menu
+[2014/11/07 22:26:16 29174] Killing the process
+[2014/11/07 22:28:00 29478] ---------------------------------------
+[2014/11/07 22:28:00 29478] Starting Application
+[2014/11/07 22:28:02 29478] Taking option from Main Menu : 1
+[2014/11/07 22:28:02 29478] Directing to weather calculation
+[2014/11/07 22:28:16 29478] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22toronto%22&format=json
+[2014/11/07 22:28:16 29478] Response Code : 200
+[2014/11/07 22:28:33 29478] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D29375205%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 22:28:33 29478] Response Code : 200
+[2014/11/07 22:36:03 30366] ---------------------------------------
+[2014/11/07 22:36:03 30366] Starting Application
+[2014/11/07 22:36:06 30366] Taking option from Main Menu : 1
+[2014/11/07 22:36:06 30366] Directing to weather calculation
+[2014/11/07 22:36:13 30366] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22toronto%22&format=json
+[2014/11/07 22:36:13 30366] Response Code : 200
+[2014/11/07 22:36:18 30366] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D29375205%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 22:36:18 30366] Response Code : 200
+[2014/11/07 22:40:16 30366] Taking option from Main Menu : 0
+[2014/11/07 22:40:16 30366] Exiting Main Menu
+[2014/11/07 22:40:16 30366] Killing the process
+[2014/11/07 22:42:18 30724] ---------------------------------------
+[2014/11/07 22:42:18 30724] Starting Application
+[2014/11/07 22:42:20 30724] Taking option from Main Menu : 1
+[2014/11/07 22:42:20 30724] Directing to weather calculation
+[2014/11/07 22:42:33 30724] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22TORONTO%22&format=json
+[2014/11/07 22:42:33 30724] Response Code : 200
+[2014/11/07 22:42:43 30724] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D29375205%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 22:42:43 30724] Response Code : 200
+[2014/11/07 22:44:35 30781] ---------------------------------------
+[2014/11/07 22:44:35 30781] Starting Application
+[2014/11/07 22:44:38 30781] Taking option from Main Menu : 1
+[2014/11/07 22:44:38 30781] Directing to weather calculation
+[2014/11/07 22:44:44 30781] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22toronto%22&format=json
+[2014/11/07 22:44:44 30781] Response Code : 200
+[2014/11/07 22:44:53 30781] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D29375205%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 22:44:53 30781] Response Code : 200
+[2014/11/07 22:46:06 31103] ---------------------------------------
+[2014/11/07 22:46:06 31103] Starting Application
+[2014/11/07 22:46:08 31103] Taking option from Main Menu : 1
+[2014/11/07 22:46:08 31103] Directing to weather calculation
+[2014/11/07 22:46:23 31103] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22toronto%22&format=json
+[2014/11/07 22:46:23 31103] Response Code : 200
+[2014/11/07 22:46:42 31103] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D29375205%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/07 22:46:42 31103] Response Code : 200
+[2014/11/08 03:42:46 20011] ---------------------------------------
+[2014/11/08 03:42:46 20011] Starting Application
+[2014/11/08 03:42:52 20011] Taking option from Main Menu : 1
+[2014/11/08 03:42:52 20011] Directing to weather calculation
+[2014/11/08 03:43:07 20011] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20geo.places%20where%20text%3D%22kolkata%20India%22&format=json
+[2014/11/08 03:43:07 20011] Response Code : 200
+[2014/11/08 03:43:07 20011] Generating options ... 
+[2014/11/08 03:43:07 20011] Selecting area from given options...
+[2014/11/08 03:43:11 20011] Now in GetAndPrintWeather() after receiving WOEID : 90882694
+[2014/11/08 03:43:12 20011] 
+Sending 'GET' request to URL : http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%3D90882694%20and%20u%3D%22c%22&format=json&callback=
+[2014/11/08 03:43:12 20011] Response Code : 200
+[2014/11/08 03:43:12 20011] Printed requested data. Now Back to Main Menu.
+[2014/11/08 03:43:32 20011] Taking option from Main Menu : 0
+[2014/11/08 03:43:32 20011] Exiting Main Menu
+[2014/11/08 03:43:32 20011] Killing the process
